@@ -22,7 +22,9 @@ python alt_translate.py
 > 触发按键可以在 [此处](https://github.com/xxtg666/alt_translator/blob/main/alt_translate.py#L14) 修改
 
 > [!WARNING]
-> 不要多开 会出事
+> 仓库内自带的 uuid `8daa7b67-82a1-40a6-a095-9952d6a31c5f` 为测试数据，已不可使用，作为占位符引导修改
+> 
+> 不要多开 会出 bug
 >
 > 打开截屏界面后单击而不拖动会报错，等待修复
 > 
