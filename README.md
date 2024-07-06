@@ -3,6 +3,8 @@
 pip install -r requirements.txt
 ```
 ### 运行
+
+建议管理员模式运行
 ```
 python alt_translate.py
 ```
