@@ -1,0 +1,5 @@
+pynput
+pillow
+keyboard
+httpx
+PyQt5
